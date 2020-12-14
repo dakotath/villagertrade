@@ -1,0 +1,23 @@
+{
+    "format_version": 1,
+    "header": {
+        "description": "Made By: §3©PopularPlace804",
+        "name": "Villager Trades Mod",
+        "uuid": "7cc94808-58aa-11e9-8647-67d7394ad05f",
+        "version": [0, 0, 4]
+    },
+    "modules": [
+        {
+            "description": "Made By: §3©PopularPlace804",
+            "type": "data",
+            "uuid": "7cc94e34-58aa-11e9-8647-9588f57a637d",
+            "version": [0, 0, 4]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "7cc94fba-58aa-11e9-8647-db64169f64a0",
+            "version": [0, 0, 4]
+        }
+    ]
+}
