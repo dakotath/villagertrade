@@ -1,0 +1,65 @@
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "minecraft:dirt",
+              "quantity": 1,
+"price_multiplier": 0
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:end_gateway",
+              "quantity": 64
+            }
+          ],
+"trader_exp": 2,
+              "max_uses": 9999,
+              "reward_exp": true
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:dirt",
+              "quantity": 1
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:glowingobsidian",
+              "quantity": 64
+            }
+          ],
+"trader_exp": 2,
+              "max_uses": 9999,
+              "reward_exp": true
+        },
+        {
+          "wants": [
+            {
+              "item": "minecraft:dirt",
+              "quantity": {
+                "min": 10,
+                "max": 10
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "minecraft:invisibleBedrock",
+              "quantity": 64
+            }
+          ],
+"trader_exp": 2,
+              "max_uses": 9999,
+              "reward_exp": true
+        }
+          ]
+        }
+      ]
+    }
+  ]
+}
